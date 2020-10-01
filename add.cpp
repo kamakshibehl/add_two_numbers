@@ -3,9 +3,7 @@ using namespace std;
 
 int main(){
 	int a,b;
-
-	// your code
         int sum=a+b;
-	cout<<sum;
+	cout<<"Sum of two numbers is:"<<a+b;
 	return 0;
 }
